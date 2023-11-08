@@ -6,8 +6,8 @@ Description
 
 ## Live page
 
-Check how it works on your own:
-(https://martakoss27.github.io/goit-react-hw-04-phonebook/)
+Check how it works on your own: (
+https://martakoss27.github.io/goit-react-hw-04-images/)
 
 ## Technologies used
 
