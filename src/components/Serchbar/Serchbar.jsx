@@ -20,8 +20,7 @@ function Searchbar({ onSubmit }) {
         <input
           className={css.input}
           type="text"
-          autocomplete="off"
-          autofocus
+          autoComplete="off"
           placeholder="Search images and photos"
           onChange={event => setQuery(event.target.value)}
         />
