@@ -8,7 +8,7 @@ function ImageGalleryItem({ image, onImageClick }) {
         className={css['ImageGalleryItem-image']}
         src={image.webformatURL}
         alt={image.tags}
-        onClick={onImageClick(image)}
+        onClick={() => onImageClick(image)}
         loading="lazy"
       />
     </li>
